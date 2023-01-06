@@ -1,2 +1,9 @@
 # webProgramming
-Projenin amacı, web Programlama dersinde teorik ve pratik olarak öğrenilen bilgilerin ilgili bir  gerçek dünya probleminin web projesini yaparak çözmek için kullanılmasını sağlamaktır.
+## Front-end olmalıdır.
+## Projeye uygun bir veritabanı tasarımı olmalıdır. Entity Framework Code First ile.
+## Admin paneli olmadır ve CRUD (create, read, update, delete) işlemleri içermelidir. (Bir area içinde)
+## Kullanıcıların üye olacakları sayfa olmalıdır.
+## Admin ve kullanıcılar tanımlanabilmelidir.
+## Authorization doğru bir şekilde yapılmalıdır.
+## Çok dilli (En azından Türkçe/İngilizce) olmalıdır.
+
